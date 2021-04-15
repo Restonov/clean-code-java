@@ -1,4 +1,4 @@
-# Practical task repository for Naming
+# Practical task repository for Functions
 
 ## General Task Guidelines
 
@@ -17,6 +17,10 @@
 
 ## All Tasks
 ```
-* Analyze the code and make changes to improve the readability and maintainability by using appropriate names.
+* Analyze the code and make changes to improve the readability and maintainability by extracting and modifying functions.
+* NOTE: All changes in module 2 can be done without creating new functional classes (Exception class is not a functional class of course). There are simple ways of completing tasks. Find them.
 ```
-
+### Task3
+```
+This task is NOT about side effects. There is considered that it's ok to have side effect for function "login", but there are other violations of clean code principles. Please find them and fix.
+```
