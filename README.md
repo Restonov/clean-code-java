@@ -1,4 +1,4 @@
-# Practical task repository for Functions
+# Practical task repository for General Principles
 
 ## General Task Guidelines
 
@@ -10,17 +10,9 @@
 *    While making changes, any files contained inside package named as 'thirdpartyjars' should be ignored. These file are meant to provide context to the task and are not part of the task.
 *    Some tasks have unit tests implemented, if they exist, they are comprehensive and we are free to change production code in any way until tests are green. You may add more tests if you feel appropriate but this is not expected.
 
-
-
-
 ## Task Specific guidelines
 
 ## All Tasks
 ```
-* Analyze the code and make changes to improve the readability and maintainability by extracting and modifying functions.
-* NOTE: All changes in module 2 can be done without creating new functional classes (Exception class is not a functional class of course). There are simple ways of completing tasks. Find them.
-```
-### Task3
-```
-This task is NOT about side effects. There is considered that it's ok to have side effect for function "login", but there are other violations of clean code principles. Please find them and fix.
+Analyze the code and make changes to improve the readability and maintainability by applying general principles.
 ```
